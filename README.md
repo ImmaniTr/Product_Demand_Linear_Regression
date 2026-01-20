@@ -108,3 +108,4 @@ The project uses a synthetic dataset designed to simulate realistic retail deman
 
 **Immani Navor Trejo Rojas**  
 Portfolio project focused on Business-Oriented Data Science.
+
