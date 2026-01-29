@@ -106,7 +106,7 @@ The project uses a synthetic dataset designed to simulate realistic retail deman
 
 ## Author
 
-**Immani Navor Trejo Rojas**  
+**Immani Trejo**  
 Portfolio project focused on Business-Oriented Data Science.
 
 
