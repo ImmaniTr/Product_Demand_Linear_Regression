@@ -109,3 +109,8 @@ The project uses a synthetic dataset designed to simulate realistic retail deman
 **Immani Navor Trejo Rojas**  
 Portfolio project focused on Business-Oriented Data Science.
 
+
+---
+⭐ **Recruiter Note**  
+This project demonstrates the ability to apply Python, pandas,  scikit-learn to build and evaluate a linear regression model, feature engineering, and linear regression to solve business problems with interpretable, actionable demand forecasts.
+
